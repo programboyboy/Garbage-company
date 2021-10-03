@@ -14,14 +14,14 @@
   minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">公司名称</span></p>
   </td>
-  <td width="109" style="width:81.5pt;border:solid windowtext 1.0pt;border-left:
+  <td width="128" style="width:95.7pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:34.95pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
   minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">法人代表</span></p>
   </td>
-  <td width="350" style="width:262.5pt;border:solid windowtext 1.0pt;border-left:
+  <td width="369" style="width:276.4pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:34.95pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -30,7 +30,7 @@
   minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">面试经历</span></p>
   </td>
-  <td width="209" style="width:156.6pt;border:solid windowtext 1.0pt;border-left:
+  <td width="171" style="width:128.5pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:34.95pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
@@ -52,7 +52,7 @@
   minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">郑州博雅讯科技有限公司</span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -60,7 +60,7 @@
   minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">马春龙</span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -103,7 +103,7 @@
   mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">、员工流动性极大，招不到人，一个岗位招几个月招<span class="GramE">不</span>来人，招来了干几天就跑，老板非常无耻，招聘时会骗你公司的有各种福利待遇，把你骗进来干活。</span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -126,7 +126,7 @@
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">河南龙杰网络科技有限公司</span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.05pt">
@@ -134,7 +134,7 @@
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">徐<span class="GramE">世</span>龙</span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.05pt">
@@ -168,7 +168,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;
   background:white">月份起诉他</span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:48.05pt">
@@ -189,7 +189,7 @@
   minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">郑州瑞之<span class="GramE">雪网络</span>科技有限公司</span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.25pt">
@@ -199,7 +199,7 @@
   minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-hansi-theme-font:minor-latin">老板</span><span lang="EN-US">)</span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.25pt">
@@ -220,7 +220,7 @@
   color:#24292F;background:white">上招人，千万不要入坑，血淋淋的教训。</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:white"><o:p></o:p></span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.25pt">
@@ -245,13 +245,13 @@
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">郑州<span class="GramE">睿诚金审</span></span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt">
@@ -261,7 +261,7 @@
   background:white">拖欠工资、报销、补助。离职好几个月了，还未结清。</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:white"><o:p></o:p></span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:20.85pt">
@@ -283,7 +283,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">河南惺惺之<span class="GramE">恋网络</span>科技有限公司</span><span lang="EN-US" style="mso-bidi-font-size:
   10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:white"><o:p></o:p></span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -292,7 +292,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">王新华</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:white"><o:p></o:p></span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -302,7 +302,7 @@
   background:white">拖欠员工工资最长的人被拖欠三个月</span><span lang="EN-US" style="mso-bidi-font-size:
   10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:white"><o:p></o:p></span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -328,7 +328,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">郑州<span class="GramE">智牧通</span>网络科技有限公司</span><span lang="EN-US" style="mso-bidi-font-size:
   10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -337,7 +337,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">董强</span></span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -354,7 +354,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">月份已经一年了，估计没戏了。</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -376,7 +376,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">河南迅众科技有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt">
@@ -385,7 +385,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">李鹏</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt">
@@ -395,7 +395,7 @@
   background:white">拖欠三个月工资</span><span lang="EN-US" style="mso-bidi-font-size:
   10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.4pt">
@@ -417,7 +417,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">河南<span class="GramE">豫申大宗</span>交易市场有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.55pt">
@@ -426,14 +426,14 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">任超峰</span></span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.55pt">
   <p class="MsoNormal"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
   font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:#F6F8FA"><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.55pt">
@@ -457,14 +457,14 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">智能科技有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.3pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.3pt">
@@ -474,7 +474,7 @@
   background:white">现在公司不让老员工复工，老员工离职不给批。招聘网站上还在招聘新员工，让新员工去工作。试用期一过想各种办法让你走</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:30.3pt">
@@ -496,7 +496,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">郑州德<span class="GramE">一</span>集团</span><span lang="EN-US" style="mso-bidi-font-size:
   10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -514,7 +514,7 @@
   text-decoration-color: initial;float:none;word-spacing:0px">陈鹏（总经理）</span></span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:#F6F8FA"><o:p></o:p></span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -541,7 +541,7 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">去面试过安卓，让三个小时内做一个支付宝的理财页面，开发软件自己下载，网速很慢，一个小时软件还没下载完，就走了，公司看着人挺多，感觉和外包一样，拼命肝的感觉</span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -567,14 +567,14 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:#F6F8FA">纬创盈通</span></span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:white"><o:p></o:p></span></p>
   </td>
-  <td width="109" style="width:81.5pt;border-top:none;border-left:none;
+  <td width="128" style="width:95.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:white"><o:p>&nbsp;</o:p></span></p>
   </td>
-  <td width="350" style="width:262.5pt;border-top:none;border-left:none;
+  <td width="369" style="width:276.4pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
@@ -626,7 +626,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">、老子去面试过，面试完我就觉得有点坑，他们说做智慧城市的，我说想看看做到什么样了，他们支支吾吾半天也没说让看，吹的特别大</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:white"><o:p></o:p></span></p>
   </td>
-  <td width="209" style="width:156.6pt;border-top:none;border-left:none;
+  <td width="171" style="width:128.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
