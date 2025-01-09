@@ -1,3 +1,8 @@
+<body lang="ZH-CN" link="blue" vlink="purple" style="tab-interval:21.0pt;word-wrap:
+break-word;text-justify-trim:punctuation">
+
+<div class="WordSection1" style="layout-grid:15.6pt">
+
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" align="left" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-table-overlap:never;mso-yfti-tbllook:1184;mso-table-lspace:9.0pt;
  margin-left:6.75pt;mso-table-rspace:9.0pt;margin-right:6.75pt;mso-table-anchor-vertical:
@@ -69,6 +74,65 @@
   mso-height-rule:exactly"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
   font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
   minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">0<o:p></o:p></span></p>
+  </td>
+  <td width="246" style="width:184.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
+  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
+  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州<span class="GramE">鑫</span>安利安全科技股份有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  </td>
+  <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
+  mso-height-rule:exactly"><span lang="EN-US"><a href="https://www.tianyancha.com/human/2004139463-c459761802" target="_blank"><span class="GramE"><span lang="EN-US" style="font-family:宋体;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;color:#24292F;
+  text-decoration:none;text-underline:none"><span lang="EN-US">杨耀党</span></span></span></a></span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-theme-font:
+  minor-fareast;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F"><o:p></o:p></span></p>
+  </td>
+  <td width="416" style="width:11.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
+  宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠员工工资，从</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">10</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">月份到现在至今未发，变相逼迫员工不要赔偿离职</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  </td>
+  <td width="208" style="width:155.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
+  mso-height-rule:exactly"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">1<o:p></o:p></span></p>
   </td>
   <td width="246" style="width:184.3pt;border-top:none;border-left:none;
@@ -101,40 +165,9 @@
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">1</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">、长期拖欠工资不发，最长拖过三个月，社保是满一年才给交。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
-  2</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
-  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">、罚钱很随便，从来不按照员工手册来，都是老板张口就来。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
-  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
-  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">、每逢放假前后就会让你连上十几天的班，把放的假都补回来。平时加班也是默认没有加班费。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
-  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
-  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">4</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">、老板平时就是喜欢盯着员工，找员工的事，想办法罚你点钱，比如盯着带没带工牌，没带罚款。日志第一次没写扣款</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">10</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">块，第二次扣款</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">20</span><span style="font-family:宋体;mso-ascii-font-family:
-  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">，第三次</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">30</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">，以此类推。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F"><o:p></o:p></span></p>
-  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
-  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">5</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">、老板喜欢开除价值不大的员工，但是不会说直接开除你，会给你降薪，调岗，威胁你等手段逼你自动离职。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
-  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
-  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">6</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">、员工流动性极大，招不到人，一个岗位招几个月招不来人，招来了干几天就跑</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
+  宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -147,7 +180,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">有员工已经劳动仲裁该公司了</span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:2">
+ <tr style="mso-yfti-irow:3">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -181,7 +214,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">徐世龙<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">徐<span class="GramE">世</span>龙<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -220,7 +253,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:3">
+ <tr style="mso-yfti-irow:4">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -242,7 +275,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州瑞之雪网络科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州瑞之<span class="GramE">雪网络</span>科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -251,10 +284,16 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">张吉富</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">(</span><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">张吉富<span lang="EN-US">(</span>老板<span lang="EN-US">)<o:p></o:p></span></span></p>
+  color:#24292F">老板<span lang="EN-US">)<o:p></o:p></span></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -285,7 +324,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这个公司相关的似乎还有三个公司，望大佬补充</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:4">
+ <tr style="mso-yfti-irow:5">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -307,7 +346,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州睿诚金审<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州<span class="GramE">睿诚金审</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -332,7 +371,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:5">
+ <tr style="mso-yfti-irow:6">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -354,7 +393,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南惺惺之恋网络科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南惺惺之<span class="GramE">恋网络</span>科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -386,10 +425,10 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南指缘网络科技有限公司、河南红讯信息技术有限公司、郑州市康途计算机科技有限公司、河南骉点企业管理咨询有限公司都是一个老板</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南指缘网络科技有限公司、<span class="GramE">河南红讯信息技术</span>有限公司、<span class="GramE">郑州市康途计算机</span>科技有限公司、河南骉点企业管理咨询有限公司都是一个老板</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:6">
+ <tr style="mso-yfti-irow:7">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -411,7 +450,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州智牧通网络科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州<span class="GramE">智牧通</span>网络科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -420,10 +459,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">董强<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">董强</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -449,7 +491,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:7">
+ <tr style="mso-yfti-irow:8">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -504,7 +546,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:8">
+ <tr style="mso-yfti-irow:9">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -526,7 +568,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南豫申大宗交易市场有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南<span class="GramE">豫申大宗</span>交易市场有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -535,10 +577,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">任超峰<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">任超峰</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -557,7 +602,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:9">
+ <tr style="mso-yfti-irow:10">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -576,10 +621,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南安霸保全智能科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南安霸保全</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">智能科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -604,7 +652,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:10">
+ <tr style="mso-yfti-irow:11">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -626,7 +674,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州德一集团<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州德<span class="GramE">一</span>集团<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -672,7 +720,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">陈鹏自吹阿里出来的，在阿里呆了五年，经人考证阿里从来都没有此人。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:11">
+ <tr style="mso-yfti-irow:12">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -691,10 +739,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">纬创盈通<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">纬创盈通</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -721,9 +772,10 @@
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">、办公电脑</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">U</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">盘不能用，不能连外网，需要用外网要申请，电脑装的都有监控软件，可以截屏、录屏、监控文件拷贝。公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">wifi</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">监控访问的网址，曾有人上班用微信被罚款、辞退。啧啧啧，酸爽</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">盘不能用，不能连外网，需要用外网要申请，电脑装的都有监控软件，可以截屏、录屏、监控文件拷贝。公司</span><span class="SpellE"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">wifi</span></span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">监控访问的网址，曾有人上班<span class="GramE">用微信被</span>罚款、辞退。啧啧<span class="GramE">啧</span>，酸爽</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">5</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
@@ -738,17 +790,18 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这是同一个公司！这是同一个公司！这是同一个公司！小刀是姓马的老板，纬创是他亲戚的公司，他招聘以两个公司名义招，两个公司在一个屋办公。对求职者来说，发同一个招聘当然是同一个公司，而且发的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">offer</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这是同一个公司！这是同一个公司！这是同一个公司！小刀是姓马的老板，<span class="GramE">纬创是他</span>亲戚的公司，他招聘以两个公司名义招，两个公司在一个屋办公。对求职者来说，<span class="GramE">发同一个</span>招聘当然是同一个公司，而且发的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">offer</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">、工资也是以纬创盈通的名义发的，只是老板和他亲戚自己算账，所以这两个招聘都是同一个项目组</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">、工资也是以<span class="GramE">纬创盈通</span>的名义发的，只是老板和他亲戚自己算账，所以这两个招聘都是同一个项目组</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">老板姓马，产品姓李，纬创集团是正规的，纬创盈通是下边的子公司，纬创盈通里又包括了一个本身的项目组和小刀项目组，小刀项目组老板姓马，发的招聘是以小刀的名义发，也以微创盈通的名义发。纬创盈通里边那个吴姓的发的还可以，那个项目组是正常的，小刀这个不可以，为了掩饰，他会以纬创盈通名义发招聘，注意甄别</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">老板姓马，产品姓李，<span class="GramE">纬创集团</span>是正规的，<span class="GramE">纬创盈通</span>是下边的子公司，<span class="GramE">纬创盈通</span>里又包括了一个本身的项目组和小刀项目组，小刀项目<span class="GramE">组老板</span>姓马，发的招聘是以小刀的名义发，也以微<span class="GramE">创盈通</span>的名义发。<span class="GramE">纬创盈通</span>里边那个吴姓的发的还可以，那个项目组是正常的，小刀这个不可以，为了掩饰，他会以<span class="GramE">纬创盈通名义发</span>招聘，注意甄别</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:12">
+ <tr style="mso-yfti-irow:13">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -793,7 +846,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">画大饼、吃馒头、拖工资、没的肉、社保说是交、未曾见到过、人事小妹妹、心眼还真多、入职到离职、从未后悔过、想到这公司、肠胃直干呕</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">-------skr<o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">画大饼、吃馒头、拖工资、没的肉、社保说是交、未曾见到过、人事小妹妹、心眼还真多、<span class="GramE">入职到离职</span>、从<span class="GramE">未后</span>悔过、想到这公司、肠胃直干呕</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">-------<span class="SpellE">skr</span><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -821,16 +874,16 @@
   color:#24292F">个月工资，狗的一匹，和我一起入职得有三个</span><span lang="EN-US" style="font-family:
   &quot;Segoe UI&quot;,sans-serif;color:#24292F">Android</span><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">，其中一个拖欠了第一个月工资后，就想离职，然后问我，我说在等等，然后说是下周发，下周就没有消息了，离职了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">，其中一个拖欠了第一个月工资后，就想离职，然后问我，我说在等等，<span class="GramE">然后说是</span>下周发，下周就没有消息了，离职了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">个月，在我孜孜不倦得催促下，和时不时不回公司质问，终于在过年前</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">1</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">天发放，一起得哥们早早就溜了，另个兄弟，因为做的项目马上上线，所以工资发了，但是只有</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">2</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">天发放，一起得哥们早早就溜了，另<span class="GramE">个</span>兄弟，因为做的项目马上上线，所以工资发了，但是只有</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">2</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">千，不知道现在离职没有，千万不要去这个公司，亲身经历</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:13">
+ <tr style="mso-yfti-irow:14">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -877,7 +930,8 @@
   color:#24292F">、老板国企出来的，身上习气太重。</span><span lang="EN-US" style="font-family:
   &quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">总共十来个人，还总摆谱，搞领导派头</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">总共十来个人，还总摆谱，<span class="GramE">搞领导</span>派头</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F"><br>
   2</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">、老板在办公室抽烟</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
@@ -886,12 +940,13 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">、老板小心眼，过河拆桥，时不时就辞退人。去了一年，同事被辞退了仨。基本上离开的同事都跟他闹不愉快</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   4</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">、专人不干专业的事，拧螺丝，搬运，打磨，切割，接线，点胶都得干。非常</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">“</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">锻炼</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">”</span><span style="font-family:宋体;mso-ascii-font-family:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">、专人不干专业的事，拧螺丝，搬运，打磨，切割，接线，<span class="GramE">点胶都</span>得干。非常</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">“</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">人。想安安静静搞开发写代码的，切记不要去</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">锻炼</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">”</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">人。想安安静静搞开发写代码的，切记不要去</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -902,7 +957,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:14">
+ <tr style="mso-yfti-irow:15">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -938,7 +993,8 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">记住，不是事业单位，就是个皮包公司，就几个小年轻干着，连人事都没，还说有五险一金</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">记住，不是事业单位，就是个皮包公司，就几个小年轻干着，连人事都没，还说有五险<span class="GramE">一</span>金</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -949,7 +1005,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:15">
+ <tr style="mso-yfti-irow:16">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -996,7 +1052,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:16">
+ <tr style="mso-yfti-irow:17">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1018,7 +1074,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南格正公考<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南格<span class="GramE">正公考</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -1027,10 +1083,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">张术军<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">张术军</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1040,7 +1099,8 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">实习入职，转正项目竣工被告知辞退，另用人的时候大量招人，不用人的时候疯狂找茬想办法辞退，美其名曰不养闲人。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">实习入职，转正项目竣工被告知辞退，另用人的时候大量招人，不用人的时候疯狂<span class="GramE">找茬想</span>办法辞退，美其名曰不养闲人。</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1051,7 +1111,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:17">
+ <tr style="mso-yfti-irow:18">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1073,7 +1133,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州东群科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州东<span class="GramE">群科技</span>有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -1082,10 +1142,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">徐常乐<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">徐常乐</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1106,7 +1169,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:18">
+ <tr style="mso-yfti-irow:19">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1128,7 +1191,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南常春藤<span lang="EN-US">/</span>武汉宏鹏<span lang="EN-US">/</span>课工场<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南常春藤<span lang="EN-US">/</span><span class="GramE">武汉宏鹏</span><span lang="EN-US">/</span>课工场<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -1142,7 +1205,8 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">工资只能发承诺的一半，画饼假的。不要相信他们招聘的内容。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">工资只能发承诺的一半，<span class="GramE">画饼假</span>的。不要相信他们招聘的内容。</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1153,7 +1217,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:19">
+ <tr style="mso-yfti-irow:20">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1175,7 +1239,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南御之谷科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南御之<span class="GramE">谷科技</span>有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -1220,7 +1284,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:20">
+ <tr style="mso-yfti-irow:21">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1277,7 +1341,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:21">
+ <tr style="mso-yfti-irow:22">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1331,9 +1395,9 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">骗取员工信用卡</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
-  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">一直在刷</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">,</span><span class="GramE"><span style="font-family:宋体;
+  mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">一直在刷</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">不还卡</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -1350,8 +1414,7 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">公司碰见这几个人要慎重</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">王磊、韩洁、张哲、朱文龙</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">王磊、韩洁、张哲、<span class="GramE">朱文龙</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1377,35 +1440,39 @@
   color:#24292F">.</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;
   mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">如果碰见王磊张哲韩洁朱文龙的人领导要注意了</span><span lang="EN-US" style="font-size:
-  10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;color:#24292F">(</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;
-  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-  &quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">王磊新密人</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+  color:#24292F">如果碰见王磊张哲韩洁<span class="GramE">朱文龙</span>的人领导要注意了</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
   &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
-  color:#24292F">,</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;
+  color:#24292F">(</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;
   mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">韩洁是王磊的老婆</span><span lang="EN-US" style="font-size:10.5pt;
+  color:#24292F">王磊新密人</span><span lang="EN-US" style="font-size:10.5pt;
   mso-bidi-font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:
   宋体;mso-fareast-theme-font:minor-fareast;color:#24292F">,</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-  &quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">张哲河南嵩县</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+  &quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">韩洁是王磊的老婆</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
   &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   color:#24292F">,</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;
   mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">朱文龙新密人王磊的朋友</span><span lang="EN-US" style="font-size:10.5pt;
+  color:#24292F">张哲河南嵩县</span><span lang="EN-US" style="font-size:10.5pt;
   mso-bidi-font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:
-  宋体;mso-fareast-theme-font:minor-fareast;color:#24292F">)<o:p></o:p></span></p>
+  宋体;mso-fareast-theme-font:minor-fareast;color:#24292F">,</span><span class="GramE"><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;
+  mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">朱文龙</span></span><span style="font-size:10.5pt;mso-bidi-font-size:
+  11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">新密人王磊的朋友</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+  &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+  color:#24292F">)<o:p></o:p></span></p>
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这个骗员工信用卡，这个骚操作是咋搞的，，那位大哥又是咋想的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这个<span class="GramE">骗员工</span>信用卡，这个<span class="GramE">骚</span>操作是咋搞的，，那位大哥又是咋想的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:22">
+ <tr style="mso-yfti-irow:23">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1459,10 +1526,11 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">忽悠应届生签两年合同，辞职赔违约金，公司在腾讯众创空间。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">忽悠应届生签两年合同，辞职赔违约金，公司在<span class="GramE">腾讯众创</span>空间。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:23">
+ <tr style="mso-yfti-irow:24">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1481,10 +1549,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">象过河<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">象</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">过河<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -1493,10 +1564,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">象海<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">象</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">海<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1513,10 +1587,9 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">说的是做军工项目</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">工资说的跟文员一样</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
-  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">然后拿项目提成</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">)<o:p></o:p></span></p>
+  color:#24292F">工资说<span class="GramE">的跟文员</span>一样</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">然后<span class="GramE">拿项目</span>提成</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">)<o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1535,10 +1608,10 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">钱给的很少，上班活分配的很紧，天天开会，说实话，一般人扛不住</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">钱给的很少，上班<span class="GramE">活分配</span>的很紧，天天开会，说实话，一般人扛不住</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:24">
+ <tr style="mso-yfti-irow:25">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1585,7 +1658,7 @@
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">我擦，我当时去面试了，好像在</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">16</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">层，说的特别大，还是什么国企，五险一金，结果面了也没结果，今天看来幸好当时没去</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">层，说的特别大，还是什么国企，五险<span class="GramE">一</span>金，结果面了也没结果，今天看来幸好当时没去</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1598,7 +1671,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">最垃圾的培训公司，打着国企的名义招聘，先做题再说技术不行来培训，包分配工作。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:25">
+ <tr style="mso-yfti-irow:26">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1653,7 +1726,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:26">
+ <tr style="mso-yfti-irow:27">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1672,10 +1745,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南红讯<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南红讯</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -1717,7 +1793,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">让我感觉不太舒服）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:27">
+ <tr style="mso-yfti-irow:28">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1772,7 +1848,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:28">
+ <tr style="mso-yfti-irow:29">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1791,10 +1867,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">爱云校<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">爱云校</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -1806,7 +1885,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">林世鼎<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">林<span class="GramE">世</span>鼎<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1818,8 +1897,7 @@
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">疫情期间半薪，持续</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">个月，说好双休改单休</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">个月，说好<span class="GramE">双休改单休</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
@@ -1835,7 +1913,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:29">
+ <tr style="mso-yfti-irow:30">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1882,15 +1960,12 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">在需要人的时候，大量招人，整天加班，现在公司业务不多，让回家停薪留职。不接受的可以主动辞职。公司人员流动很大，近段时间很多公司员工被离职。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">公司一边说不让老实人吃亏，一边把公司员工当傻子。疫情期间在家休息，没有工资，社保个人承担。复工后</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">公司一边说不让老实人吃亏，一边把公司员工当傻子。疫情期间在家休息，没有工资，社保个人承担。复工<span class="GramE">后<span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif">3</span>月</span>到</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">6</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">月到</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">6</span><span style="font-family:宋体;mso-ascii-font-family:
+  color:#24292F">月，薪资将</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">20%</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">月，薪资将</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">20%</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F"><br>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">疫情原因，一月，二月份在家加班，核算工资时候，工作日竟然是按</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">29</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
@@ -1906,7 +1981,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:30">
+ <tr style="mso-yfti-irow:31">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -1951,9 +2026,11 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">19</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">年过年薪资至今未发，微信等各种工具联系说没钱等有钱了解决，在职的逼着没日没夜加班，一天一上线，上线必通宵，社保自从账户开通就一直给员工欠着，最后员工社保户头欠了一屁股债，他们拍拍屁股毛事没有，注意注意、集体拖欠一个月薪资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">+N</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">年过年薪资至今未发，<span class="GramE">微信等</span>各种工具联系说没钱等有钱了解决，在职的逼着没日没夜加班，一天<span class="GramE">一</span>上线，上线必通宵，社保自从账户开通就一直给员工欠着，最后员工社<span class="GramE">保户头欠</span>了一屁股债，他们拍拍<span class="GramE">屁股毛事没有</span>，注意<span class="GramE">注意</span>、集体拖欠一个月薪资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">+N</span><span class="GramE"><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">个</span></span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">个月社保（补充：公司没钱了。合伙人太多，内部意见不一致</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">---</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">月社保（补充：公司没钱了。合伙人太多，内部意见不一致</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">---</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">再补充</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -1972,7 +2049,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:31">
+ <tr style="mso-yfti-irow:32">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2008,7 +2085,8 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">是一个贷催收公司，入职后东西做完立马解散，说公司没钱了，做项目时还要签投名状，</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">是一个贷催收公司，入职<span class="GramE">后东西</span>做完立马解散，说公司没钱了，<span class="GramE">做项目</span>时<span class="GramE">还要签投名状</span>，</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">一个月的东西完不成就要扣工资的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">40%</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
@@ -2020,7 +2098,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">签合同只有一份，公司保留着员工没有，随意开除人，几个人的公司还勾心斗角，</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">开个会差一点撸袖子打起来，姓赵的老总心知肚明就是不劝架，夏天开个空调他看到会</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">开个会差一点<span class="GramE">撸</span>袖子打起来，姓赵的老总心知肚明就是不劝架，夏天开个空调他看到会</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">把它关了，然后打开窗户说这样也行呀</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
@@ -2034,7 +2112,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:32">
+ <tr style="mso-yfti-irow:33">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2070,7 +2148,8 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠工资，公司有钱也盈利了就是不发。经常性拖三个月，到最后给结清了。但是拖欠，公司制度不行。在公司，同事之间</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠工资，公司有钱也盈利了就是不发。经常性拖三个月，到最后给结清了。但是拖欠，公司制度不行。在公司，<span class="GramE">同事之间</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">沟通的话题永远都是：什么时候发工资，听说</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">XX</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
@@ -2087,17 +2166,17 @@
   mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-size:10.5pt;
   mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:
   宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这个公司我以前也呆过，那时候还在蓝堡湾，不知道那个叫：孙大威的还在不在了，坑逼，想着办法不给钱，找各种理由，他加的有其他群，在群里天天一副老总很牛逼的嘴脸</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
-  &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
-  color:#24292F"><o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这个公司我以前也呆过，那时候<span class="GramE">还在蓝堡湾</span>，不知道那个叫：孙大威的还在不在了，坑逼，想着办法不给钱，找各种理由，他加的有其他群，在群里天天一副老总<span class="GramE">很</span>牛逼的嘴脸</span><span lang="EN-US" style="font-size:10.5pt;
+  mso-bidi-font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;color:#24292F"><o:p></o:p></span></p>
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">我也在这呆过，原公司地址在中州大道农业路苏荷中心，现在听说搬走了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">我也<span class="GramE">在这呆过</span>，原公司地址在中州大道农业路苏荷中心，现在听说搬走了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:33">
+ <tr style="mso-yfti-irow:34">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2119,7 +2198,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南鑫真金网络科技有限公司（金融链）<span lang="EN-US"><br>
+  color:#24292F">河南<span class="GramE">鑫</span>真金网络科技有限公司（金融链）<span lang="EN-US"><br>
   </span>北京真金网络科技有限公司（金融链）<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
@@ -2132,7 +2211,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">赵梦<span lang="EN-US">/</span>杨志越<span lang="EN-US">/</span>王利强<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">赵梦<span lang="EN-US">/</span>杨志越<span lang="EN-US">/</span><span class="GramE">王利强</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2142,7 +2221,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">是一家金融公司，专门忽悠自己员工。经常拖欠工资，领导当着这个员工说另一个不好，当着另一个说这个不好。老板都很聪明</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">是一家金融公司，专门<span class="GramE">忽悠自己</span>员工。经常拖欠工资，领导当着这个员工说另一个不好，当着另一个说这个不好。老板都很聪明</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">在郑州运营却是北京的公司，员工集体仲裁过没有任何效果，起诉就注销公司，目前应该注销中</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
@@ -2158,7 +2237,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这三个人做人都毫无底线，望大家小心！</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:34">
+ <tr style="mso-yfti-irow:35">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2180,7 +2259,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">广州市运乐淘电子商务有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">广州市<span class="GramE">运乐淘</span>电子商务有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -2192,7 +2271,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">夏蔚<span lang="EN-US">/</span>杨世伟<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">夏蔚<span lang="EN-US">/</span>杨<span class="GramE">世</span>伟<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2202,7 +2281,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">纯属的就是诈骗员工的公司，夏蔚号称博士，素质不是一般的低，虚伪骗员工，不发工资都是小事儿，不想办法敲诈你都算好了，从那出来的员工就没有见过拿到工资的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">纯属的就是诈骗员工的公司，夏蔚号称博士，素质不是一般的低，虚伪骗员工，<span class="GramE">不</span>发工资都是小事儿，不想办法敲诈你都算好了，从<span class="GramE">那出来</span>的员工就没有见过拿到工资的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2213,7 +2292,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:35">
+ <tr style="mso-yfti-irow:36">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2268,7 +2347,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:36">
+ <tr style="mso-yfti-irow:37">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2317,7 +2396,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:37">
+ <tr style="mso-yfti-irow:38">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2339,7 +2418,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">广之睿<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">广之<span class="GramE">睿</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -2372,7 +2451,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:38">
+ <tr style="mso-yfti-irow:39">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2436,7 +2515,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">只要本科学历</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:39">
+ <tr style="mso-yfti-irow:40">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2480,9 +2559,10 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">进去前说是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">15</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">号发工资，进去后月底月底发工资！人家就告诉你来这上班就是要压一个月工资！自己算算项目提成没有问题就见鬼了，最好问问加班有工资吗！说多了就是没有！一个大项目问你啥时候后完成，立个军令状！完不成呵呵！</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">进去<span class="GramE">前说是</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">15</span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">号发工资，进去后月底月底发工资！人家就告诉你来这上班就是要压一个月工资！自己算算项目提成没有问题就见鬼了，最好问问加班有工资吗！说多了就是没有！一个大项目问你啥时候后完成，立个军令状！完不成呵呵！</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2493,7 +2573,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:40">
+ <tr style="mso-yfti-irow:41">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2541,12 +2621,13 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">年</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">12</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">月的还没发。新任职的不会签订合同，就是试用期到了，也不给。不交五险一金，单休，加班多，经常无故克扣员工工资（一离职员工</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">6000</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">工资被扣剩</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">300</span><span style="font-family:宋体;mso-ascii-font-family:
+  color:#24292F">月的还没发。新任职的不会签订合同，就是试用期到了，也不给。不交五险<span class="GramE">一</span>金，单休，加班多，经常无故克扣员工工资（<span class="GramE">一</span>离职员工</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">6000</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">），老板有事没事就问你进度，大幅压缩周期。不只是这些问题，老板说慌特别多，从签订合同和对公司的经营，说是公司的尾款没有结清，可是公司的真实经营状况公司全公司都不清楚，但是他本身确实是有钱，就是不发工资。他自己带着业务部的人去和平安银行私自去卖人参，他也爱搞副业，玩直播，赔了让底下人承担责任，和你谈诚信，可是处处说话不算话。人情关系浓厚，你不和个别几个人处好关系，你等着穿小鞋吧</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">工资被扣剩</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">300</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">），老板有事没事就问你进度，大幅压缩周期。不只是这些问题，老板说<span class="GramE">慌特别</span>多，从签订合同和对公司的经营，说是公司的尾款没有结清，可是公司的真实经营状况公司全公司都不清楚，但是他本身确实是有钱，就是<span class="GramE">不</span>发工资。他自己带着业务部的人去和平安银行私自去卖人参，他也爱搞副业，玩直播，赔了让底下人承担责任，和你谈诚信，可是处处说话不算话。人情关系浓厚，你不和个别几个人处好关系，<span class="GramE">你等着</span>穿小鞋吧</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2557,7 +2638,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:41">
+ <tr style="mso-yfti-irow:42">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2576,10 +2657,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州乐鸟<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州乐鸟</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -2623,7 +2707,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">培训费说好的在公司上班两年给退，现在各种理由不给退，还说合同上没写一次性付清又说加到工资里面给过了！！</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:42">
+ <tr style="mso-yfti-irow:43">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2676,8 +2760,7 @@
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">克扣员工工资，失联。画大饼吹捧自己为很有眼光项目经理。公司刚发不起工资倒闭重新组装阶段。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">无赖。电话不接。不发工资。称随意仲裁</span><span lang="EN-US" style="font-family:
-  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">无赖。电话不接。<span class="GramE">不</span>发工资。称随意仲裁</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2688,7 +2771,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:43">
+ <tr style="mso-yfti-irow:44">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2732,7 +2815,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">一家做人工智能的，实际上就是爬取数据，人工比对，或者一些很基础的比对函数，加班没有任何补助，吃饭自理，月月拖工资，还得经常去找老板要工资，公司结构复杂</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">一家做人工智能的，实际上<span class="GramE">就是爬取数据</span>，人工比对，或者一些<span class="GramE">很</span>基础的比对函数，加班没有任何补助，吃饭自理，月月拖工资，还得经常去找老板要工资，公司结构复杂</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2742,10 +2825,10 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">白书占说技术头头是道，就是个大忽悠特别不靠谱，有啥都推给别人，他经手的公司都是拖欠工资的，河南快保科技有限公司、家播网、星关系、渥嘟绘本？</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">白书占说技术头头是道，就是个大忽悠特别不靠谱，有啥都推给别人，他经手的公司都是拖欠工资的，河南快保科技有限公司、<span class="GramE">家播网</span>、星关系、<span class="GramE">渥嘟绘本</span>？</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:44">
+ <tr style="mso-yfti-irow:45">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2805,7 +2888,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:45">
+ <tr style="mso-yfti-irow:46">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2849,7 +2932,8 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">他现在好像开了个公司但我不清楚名字，这个人一直以招人，干俩月不给工资，换地方再招人，再不给工资再换，走仲裁的也没拿到钱最后。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">他现在好像开了个公司但我不清楚名字，这个人一直以招人，干俩月不给工资，换地方再招人，再不给工资再换，<span class="GramE">走仲裁</span>的也没拿到钱最后。</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2860,7 +2944,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:46">
+ <tr style="mso-yfti-irow:47">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -2879,10 +2963,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州闪创科技<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州闪创科技</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -2891,10 +2978,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">齐浅<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">齐浅</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2920,7 +3010,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:47">
+ <tr style="mso-yfti-irow:48">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3019,9 +3109,11 @@
   color:#24292F">让他们去做调查</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">还说</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">还说</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span class="GramE"><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">初级人</span></span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">初级人很多</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">很多</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">不需要做调查</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
@@ -3074,7 +3166,7 @@
   color:#24292F">外包公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">一直压工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">一直<span class="GramE">压工资</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">福利差</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">.&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -3104,10 +3196,10 @@
   color:#24292F">这家公司最好不要去</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">可以练练手</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">.]]<o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">可以<span class="GramE">练</span>练手</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">.]]<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:48">
+ <tr style="mso-yfti-irow:49">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3129,7 +3221,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南毅豪轩建筑有限公司<span lang="EN-US">&nbsp;</span>烨果教育科技<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南毅豪轩建筑有限公司<span lang="EN-US">&nbsp;</span><span class="GramE">烨果教育</span>科技<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3154,7 +3246,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:49">
+ <tr style="mso-yfti-irow:50">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3173,10 +3265,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南云软信息技术有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南云软信息技术</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3225,11 +3320,14 @@
   mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:
   宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">王鲲鹏公司：</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;color:#24292F">&nbsp;</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;
-  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-  &quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南云软信息技术有限公司</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
-  &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
-  color:#24292F"><br>
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;color:#24292F">&nbsp;</span><span class="GramE"><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;
+  mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南云软信息技术</span></span><span style="font-size:10.5pt;
+  mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">有限公司</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;color:#24292F"><br>
   </span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">失信信息（</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
@@ -3241,7 +3339,7 @@
   11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;
   mso-fareast-theme-font:minor-fareast;color:#24292F">&nbsp;</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-  &quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；郑州幼家宝互联网信息服务有限公司</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+  &quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；<span class="GramE">郑州幼家宝</span>互联网信息服务有限公司</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
   &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   color:#24292F">&nbsp;</span><span style="font-size:10.5pt;mso-bidi-font-size:
   11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;
@@ -3261,17 +3359,20 @@
   color:#24292F">&nbsp;</span><span style="font-size:10.5pt;mso-bidi-font-size:
   11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；河南优观大数据科技有限公司</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；<span class="GramE">河南优观大</span>数据科技有限公司</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
   &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   color:#24292F">&nbsp;</span><span style="font-size:10.5pt;mso-bidi-font-size:
   11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;color:#24292F">&nbsp;</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;
-  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-  &quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南云宽信息技术有限公司</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
-  &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
-  color:#24292F"><br>
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;color:#24292F">&nbsp;</span><span class="GramE"><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;
+  mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南云宽信息技术</span></span><span style="font-size:10.5pt;
+  mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:
+  宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">有限公司</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;color:#24292F"><br>
   </span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">失信信息（</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
@@ -3283,9 +3384,9 @@
   11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;
   mso-fareast-theme-font:minor-fareast;color:#24292F">&nbsp;</span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
-  &quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；芜湖市华旭科技有限公司；郑州神灯网络科技有限公司；郑州幼家宝互联网信息服务有限公司</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
-  &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
-  color:#24292F"><o:p></o:p></span></p>
+  &quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；芜湖市华旭科技有限公司；郑州神灯网络科技有限公司；<span class="GramE">郑州幼家宝</span>互联网信息服务有限公司</span><span lang="EN-US" style="font-size:
+  10.5pt;mso-bidi-font-size:11.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;color:#24292F"><o:p></o:p></span></p>
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
@@ -3295,9 +3396,11 @@
   color:#24292F">家：郑州神灯网络科技有限公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span class="GramE"><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南云宽信息技术</span></span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南云宽信息技术有限公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">有限公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
@@ -3306,10 +3409,10 @@
   color:#24292F">）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；河南优观大数据科技有限公司；河南云家校信息技术有限公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">；<span class="GramE">河南优观大</span>数据科技有限公司；河南云家校信息技术有限公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:50">
+ <tr style="mso-yfti-irow:51">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3364,7 +3467,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:51">
+ <tr style="mso-yfti-irow:52">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3386,7 +3489,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南亿生信<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南<span class="GramE">亿生信</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3411,7 +3514,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:52">
+ <tr style="mso-yfti-irow:53">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3430,10 +3533,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州铁拓自动化设备有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州铁拓自动化</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">设备有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3477,7 +3583,7 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">才过去开始面试</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:53">
+ <tr style="mso-yfti-irow:54">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3499,7 +3605,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">慕然科技<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">慕<span class="GramE">然科技</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3508,10 +3614,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">段星晨<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">段星晨</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3532,7 +3641,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:54">
+ <tr style="mso-yfti-irow:55">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3551,10 +3660,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">北京科蓝<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">北京科蓝</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3568,7 +3680,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">银行外包公司，时不时在周六末进行培训，有时候考不过还扣钱，员工出差的钱报销很慢，去年中旬的差旅费都没有报下来，工资延迟发放，社保公积金缴存的慢，一般晚一两个月，部分离职的员工在离职的时候工资比在职的要晚发。如果项目做完了，要不了那么多人了，就把你派到外地出差，逼你离职。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">银行外包公司，时不时在周六<span class="GramE">末进行</span>培训，有时候考不过还扣钱，员工出差的钱报销很慢，去年中旬的差旅费都没有报下来，工资延迟发放，社保公积金缴存的慢，一般晚一两个月，部分离职的员工在离职的时候工资比在职的要晚发。如果项目做完了，要不了那么多人了，就把你派到外地出差，逼你离职。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3579,7 +3691,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:55">
+ <tr style="mso-yfti-irow:56">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3601,7 +3713,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">智选云商（自称<span lang="EN-US">&nbsp;</span>中关村在线郑州分公司）<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">智<span class="GramE">选云商</span>（自称<span lang="EN-US">&nbsp;</span>中关村在线郑州分公司）<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3636,7 +3748,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:56">
+ <tr style="mso-yfti-irow:57">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3658,7 +3770,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州云计划科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州<span class="GramE">云计划</span>科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3679,7 +3791,7 @@
   color:#24292F">，二线城市</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">4000</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">，还不管吃住，没有五险一金，没外包出去的没有工资拿，没有比他更坑的，万恶的人力外包。面试水的要命，面试官不懂技术，拿着一个小本本念面试题问，狗子都能进去。。。。。。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">，还不管吃住，没有五险<span class="GramE">一</span>金，没外包出去的没有工资拿，没有比<span class="GramE">他更坑的</span>，万恶的人力外包。面试水的要命，面试官不懂技术，拿着一个小本本念面试<span class="GramE">题问</span>，狗子都能进去。。。。。。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3691,7 +3803,7 @@
   mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-size:10.5pt;
   mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:
   宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">要了简历，学信网截图，然后给发了一个有云计划</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">要了简历，学<span class="GramE">信网截</span>图，然后给发了一个有云计划</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
   &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   color:#24292F"><br>
   </span><span style="font-size:10.5pt;mso-bidi-font-size:11.0pt;mso-ascii-font-family:
@@ -3710,10 +3822,10 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">表面是软件公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">其实是培训机构，云计划还有个霸王条款，合同内只能公司辞你，而你不能辞职，自己辞职需要赔偿公司两万元，，，这条违反国家法律，不用理会，拿着这玩意直接起诉就行。就是起诉周期可能有点长</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">其实是培训机构，<span class="GramE">云计划</span>还有个霸王条款，合同内只能公司辞你，而你不能辞职，自己辞职需要赔偿公司两万元，，，这条违反国家法律，不用理会，拿着这玩意直接起诉就行。就是起诉周期可能有点长</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:57">
+ <tr style="mso-yfti-irow:58">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3758,7 +3870,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:58">
+ <tr style="mso-yfti-irow:59">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3777,10 +3889,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">飞道科技<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">飞道科技</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3804,10 +3919,10 @@
   color:#24292F">月之后三个月工资，这家公司总共就</span><span lang="EN-US" style="font-family:
   &quot;Segoe UI&quot;,sans-serif;color:#24292F">20</span><span style="font-family:宋体;
   mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">来个开发，招聘一百多个产品经理，坑爹玩意。现在欠</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">100</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">多个人的工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">来个开发，招聘一百多个产品经理，<span class="GramE">坑爹玩意</span>。现在欠</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">100</span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">多个人的工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3817,13 +3932,13 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这谁敢去，一个研发身边站五个产品经理，我想到了，一个女开发员后面站了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">5</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">个男程序员的画面，这对比太强烈了</span><span lang="EN-US" style="font-family:
-  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这谁敢去，一个研发身边站五个产品经理，我想到了，一个<span class="GramE">女开发员</span>后面站了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">5</span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">个男程序员的画面，这对比太强烈了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:59">
+ <tr style="mso-yfti-irow:60">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3872,7 +3987,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">兄弟，这就是一个培训机构</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:60">
+ <tr style="mso-yfti-irow:61">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3908,7 +4023,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">面试时说单双休，但是只有单休，而且单休不填调休表扣三天工作量。每个月工作不满</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">20</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">面试<span class="GramE">时说单双休</span>，但是只有单休，而且单休不填调休表扣三天工作量。每个月工作不满</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">20</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">天按照</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">30</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -3920,7 +4035,7 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">工作天数算。没有社保，每个月固定</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">50</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">块工伤保险，合同和本公司签，社保在别的公司。离职不开离职证明，说是公司规定。转正后比试用期工资还低。入职压一个月工资，第二个月月底发第一个月的工资。而且公司没有任何节假日、加班费！</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">块工伤保险，合同和本公司签，社保在别的公司。离职不开离职证明，说是公司规定。转正后比试用期工资还低。<span class="GramE">入职压一个月</span>工资，第二个<span class="GramE">月月底发第一个月</span>的工资。而且公司没有任何节假日、加班费！</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3930,15 +4045,15 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">领导巨会画大饼，说公司要组建互联网团队，做智能运输平台，未来怎么怎么样。技术总监是从别的地方不知道什么价挖过来的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">(</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">技术一般</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">)</span><span style="font-family:宋体;mso-ascii-font-family:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">领导巨会画大饼，说公司要组建互联网团队，做智能运输平台，未来怎么怎么样。技术总监是从别的地方不知道<span class="GramE">什么价挖过来</span>的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">(</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">，人挺好，但是人事总监负责员工工资福利什么的，技术总监在人事总监面前没有任何地位。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">技术一般</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">)</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">，人挺好，但是人事总监负责员工工资福利什么的，技术总监在人事总监面前没有任何地位。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:61">
+ <tr style="mso-yfti-irow:62">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -3960,7 +4075,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州点读电子科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州<span class="GramE">点读电子</span>科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -3969,10 +4084,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">任辉<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">任辉</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3984,20 +4102,20 @@
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">从</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">19</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">年开始陆陆续续拖欠，目前从</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">19</span><span style="font-family:宋体;mso-ascii-font-family:
-  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">年</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">12</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">年开始陆<span class="GramE">陆续</span>续拖欠，目前从</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">19</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">月份到</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">20</span><span style="font-family:宋体;mso-ascii-font-family:
+  color:#24292F">年</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">12</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">年</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">月份到</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">20</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">月底已经拖欠了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">4</span><span style="font-family:宋体;mso-ascii-font-family:
+  color:#24292F">年</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">个月，随着时间的增加还会继续拖欠。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">月底已经拖欠了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">4</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">个月，随着时间的增加还会继续拖欠。</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4018,7 +4136,7 @@
   color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:62">
+ <tr style="mso-yfti-irow:63">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4040,7 +4158,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南浩之岩科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南<span class="GramE">浩</span>之岩科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -4064,7 +4182,7 @@
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">公司接的外包项目，有项目就开发维护，没有项目就直接被开除，用人的时候招人，不用人就直接开人，老板身边有个</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">SB</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">舔狗助理，还有个研发副总监，其实就是个工作几年的研发人员，牛（傻）逼的不行，望慎重入职</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">舔狗助理，还有个<span class="GramE">研发副</span>总监，其实就是个工作几年的研发人员，牛（傻）逼的不行，望慎重入职</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4076,7 +4194,7 @@
   mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-size:10.5pt;
   mso-bidi-font-size:11.0pt;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-font-family:
   宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">五险一金什么的就别提了</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">五险<span class="GramE">一</span>金什么的就别提了</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
   &quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
   color:#24292F"><o:p></o:p></span></p>
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
@@ -4089,7 +4207,7 @@
   color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:63">
+ <tr style="mso-yfti-irow:64">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4171,7 +4289,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:64">
+ <tr style="mso-yfti-irow:65">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4193,7 +4311,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州汇然网络<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州<span class="GramE">汇然网络</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -4280,7 +4398,7 @@
   color:#24292F">904<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:65">
+ <tr style="mso-yfti-irow:66">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4329,71 +4447,21 @@
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
-  宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">陈靖是个管业务、运维的。基本上不在公司，还一直很牛逼的管着办公室</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  column;mso-element-top:.05pt;mso-height-rule:exactly"><span class="GramE"><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">陈靖是个</span></span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">管业务、运维的。基本上不在公司，还一直<span class="GramE">很</span>牛逼的管着办公室</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">项目开发。是给法院开发项目的，外包公司。说是双休，经常让周六加班，</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">晚上加班，就管一顿饭。陈靖经常踢人，人员流动性大。自称是和法院有</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">晚上加班，就管一顿饭。陈<span class="GramE">靖经常</span>踢人，人员流动性大。自称是和法院有</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">关系，打官司他都不怕。慎重。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
-  </td>
-  <td width="208" style="width:155.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
-  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:66">
-  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
-  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
-  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
-  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">66<o:p></o:p></span></p>
-  </td>
-  <td width="246" style="width:184.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
-  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
-  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州国金科技<span lang="EN-US"><o:p></o:p></span></span></p>
-  </td>
-  <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
-  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
-  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">任卫宾<span lang="EN-US"><o:p></o:p></span></span></p>
-  </td>
-  <td width="416" style="width:11.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
-  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4414,6 +4482,65 @@
   mso-height-rule:exactly"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
   font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
   minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">66<o:p></o:p></span></p>
+  </td>
+  <td width="246" style="width:184.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州国</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">金科技<span lang="EN-US"><o:p></o:p></span></span></p>
+  </td>
+  <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">任卫宾</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
+  </td>
+  <td width="416" style="width:11.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
+  </td>
+  <td width="208" style="width:155.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:68">
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
+  mso-height-rule:exactly"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">67<o:p></o:p></span></p>
   </td>
   <td width="246" style="width:184.3pt;border-top:none;border-left:none;
@@ -4423,11 +4550,14 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南飞普网络技术有限公司<span lang="EN-US"><br>
-  (</span>又叫<span lang="EN-US">“</span>微晟互联<span lang="EN-US">”)</span>经常改公司名称，现在又变成软晟科技了！<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南飞普网络技术</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">有限公司<span lang="EN-US"><br>
+  (</span>又叫<span lang="EN-US">“</span>微晟互联<span lang="EN-US">”)</span>经常<span class="GramE">改公司</span>名称，现在又变成软<span class="GramE">晟</span>科技了！<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -4449,16 +4579,16 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">项目外包公司，不签合同，没有五险一金，问人事说的是入职一年交，但是身边同事除了一个技术主管，没有一个能干满一年的，都是干几个月被各种理由开掉。我是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">2017</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">项目外包公司，不签合同，没有五险<span class="GramE">一</span>金，问人事说的是入职一年交，但是身边同事除了一个技术主管，没有一个能干满一年的，都是干几个月被各种理由开掉。我是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">2017</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">年</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">6</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">月份入职的，干到</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">12</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">月份莫名其妙被开。我当时发工资是老板陈飞私人微信转账。现在什么样就不清楚了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">……</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">月份莫名其妙被开。我当时发工资是老板陈飞<span class="GramE">私人微信转账</span>。现在什么样就不清楚了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">……</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">现在公司又改成郑州软晟科技了，一直招人，招来人，不给转正，项目做完都开除！法定假日都不让休息，工资拖欠特别严重</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">现在公司又改成郑州软<span class="GramE">晟</span>科技了，一直招人，招来人，不给转正，项目做完都开除！法定假日都不让休息，工资拖欠特别严重</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4469,7 +4599,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:68">
+ <tr style="mso-yfti-irow:69">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4491,7 +4621,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南邦耀网络科技<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南<span class="GramE">邦耀网络</span>科技<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -4545,7 +4675,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:69">
+ <tr style="mso-yfti-irow:70">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4596,10 +4726,9 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">在职期间经常当月工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">下下个月才到手</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
-  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">离职后各种催结工资近</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">1</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">下下<span class="GramE">个</span>月才到手</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">离职后各种<span class="GramE">催结工资</span>近</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">1</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">年工资才结清</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F"><o:p></o:p></span></p>
@@ -4613,7 +4742,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:70">
+ <tr style="mso-yfti-irow:71">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4635,7 +4764,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">天瑞集团<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">天<span class="GramE">瑞集团</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -4649,9 +4778,12 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠工资</span><span class="GramE"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">能半年</span></span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">能半年之久</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">之久</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">&nbsp;&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">制度变态</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
@@ -4675,7 +4807,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠工资这个事情已经很长时间了，在智联上看评论就有点吓人</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:71">
+ <tr style="mso-yfti-irow:72">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4694,10 +4826,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">众惠物联网科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">众惠物</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">联网科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -4726,16 +4861,17 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">个月之后涨薪</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">20%-30%</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">，还有公租房，有五险一金。入职了说当初听错了，只有五险没有一金，还和你商量能不能</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">6.5k</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">，还有公租房，有五险<span class="GramE">一</span>金。入职了说当初听错了，<span class="GramE">只有五险没有一金，还和你商量能不能</span></span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F">6.5k</span><span style="font-family:
+  宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">，不给</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">7</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">，不给</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">7</span><span style="font-family:宋体;mso-ascii-font-family:
-  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">。公司领导层不行，一盘散沙，什么都不懂，干起活来很费劲，可能年龄都小吧都是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">95</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">。公司领导层不行，一盘散沙，什么都不懂，干起活来很费劲，可能年龄都小吧都是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">95</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">后的。公司的业务挣钱不多，老板会画大饼死撑，然后只发一点点薪资。研发部门工作环境不行，不是个做研发的团队，工作起来很费劲。拖欠工资。龙子湖木华广场。公司每天</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">9</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">点点名，然后安排人念励志文章，会无缘无故临时裁人，第二天不需要来的那种</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">后的。公司的业务挣钱不多，老板会画大饼死撑，然后只发一点点薪资。研发部门工作环境不行，不是个做研发的团队，工作起来很费劲。拖欠工资。<span class="GramE">龙子湖木华</span>广场。公司每天</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F">9</span><span style="font-family:宋体;
+  mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">点点名，然后安排人念励志文章，会无缘无故临时裁人，第二天不需要来的那种</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4746,7 +4882,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:72">
+ <tr style="mso-yfti-irow:73">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4768,7 +4904,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州九巽天娱电子科技公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州九<span class="GramE">巽天娱电子</span>科技公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -4801,7 +4937,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:73">
+ <tr style="mso-yfti-irow:74">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4820,10 +4956,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州冠普科技<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州冠普科技</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -4883,9 +5022,11 @@
   color:#24292F">中间也申请了强制执行</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">公司账面一分没得</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">公司账面一分没得</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span class="GramE"><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">依旧拿</span></span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">依旧拿不回一分钱</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">不回一分钱</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">仲裁期间</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
@@ -4898,12 +5039,12 @@
   color:#24292F">更换法人注销公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">各种骚操作</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">各种<span class="GramE">骚</span>操作</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">后更名为郑州普冠科技</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
-  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">我也是醉了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">!<o:p></o:p></span></p>
+  color:#24292F">后更名为<span class="GramE">郑州普冠科技</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">我也是醉了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">!<o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4914,7 +5055,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:74">
+ <tr style="mso-yfti-irow:75">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -4933,11 +5074,16 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州杰翔科技<span lang="EN-US"><br>
-  </span>河南省融慈信息有限公司<span lang="EN-US"><br>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州杰翔科技</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><br>
+  </span><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-theme-font:
+  minor-fareast;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南省融慈信息有限公司<span lang="EN-US"><br>
   </span>河南省中教智能技术研究院有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
@@ -4947,10 +5093,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">汤远启<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">汤远启</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -4982,7 +5131,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:75">
+ <tr style="mso-yfti-irow:76">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5023,12 +5172,13 @@
   color:#24292F">郑州办事处</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">(</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">让你签厦门或珠海公司合同，郑州没公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">)&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">让你签厦门或珠海公司合同，郑州没公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">)&nbsp;</span><span class="GramE"><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">纯银行</span></span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">纯银行外包公司加班没加班费，没调休，每月</span><span lang="EN-US" style="font-family:
-  &quot;Segoe UI&quot;,sans-serif;color:#24292F">20</span><span style="font-family:宋体;
-  mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">号要报工，如果没报上就没一分工资了，确实你是加班到晚上凌晨</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">1</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">外包公司<span class="GramE">加班没</span>加班费，没调休，每月</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">20</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">号要报工，如果没报上就没一分工资了，确实你是加班到晚上凌晨</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">1</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">点还是几点都只有</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">20</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -5038,14 +5188,15 @@
   color:#24292F">年，而且只有</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">1</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">千块钱，没项目就让让你出差，不然各种手段逼你主动离职。如果在这公司扩展到中原银行，那你就倒霉到家了，每周都是单休而且晚上都是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">11</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">点才下班，早上</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">9</span><span style="font-family:宋体;mso-ascii-font-family:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">千块钱，没项目就让让你出差，<span class="GramE">不然各种</span>手段逼你主动离职。如果在这公司扩展到中原银行，那你就倒霉到家了，每周都是单<span class="GramE">休而且</span>晚上都是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">11</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">点就得上班，一个月才报销</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">150</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">点才下班，早上</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">9</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">车费（不管你花了多少钱，而且你自己提供发票），</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">220</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">点就得上班，一个月才报销</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">150</span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">车费（不管你花了多少钱，而且你自己提供发票），</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">220</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">餐补（按规定是一天</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">20</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -5063,7 +5214,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:76">
+ <tr style="mso-yfti-irow:77">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5109,7 +5260,7 @@
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">地址</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">:</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">新芒果大厦，拖欠工资，每月月底发上个月工资，且发放时间不准时，转正工资不兑现，离职后三个月才发放最后一个月工资，目前已无法正常发出工资，且已走在被仲裁的过程中。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">新芒果大厦，拖欠工资，每<span class="GramE">月月底发上个月</span>工资，且发放时间不准时，转正工资不兑现，离职后三个月才发放最后一个月工资，目前已无法正常发出工资，且已走在被仲裁的过程中。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5120,7 +5271,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:77">
+ <tr style="mso-yfti-irow:78">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5172,7 +5323,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:78">
+ <tr style="mso-yfti-irow:79">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5194,7 +5345,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">未填公司名<span lang="EN-US">1<o:p></o:p></span></span></p>
+  color:#24292F">未<span class="GramE">填公司</span>名<span lang="EN-US">1<o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -5227,7 +5378,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:79">
+ <tr style="mso-yfti-irow:80">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5250,7 +5401,7 @@
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">河南毅豪轩建筑有限公司<span lang="EN-US"><br>
-  </span>烨果教育科技<span lang="EN-US"><o:p></o:p></span></span></p>
+  </span><span class="GramE">烨果教育</span>科技<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -5275,7 +5426,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:80">
+ <tr style="mso-yfti-irow:81">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5294,10 +5445,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州铁拓自动化设备有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州铁拓自动化</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">设备有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -5332,7 +5486,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠半年工资，至今未讨回</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:81">
+ <tr style="mso-yfti-irow:82">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5351,10 +5505,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州云讯科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州云讯科技</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -5378,8 +5535,7 @@
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">拖欠工资员工大规模离职</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">未离职员工多次萌发删库跑路的想法</span><span lang="EN-US" style="font-family:
-  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">未离职员工多次萌发<span class="GramE">删</span>库跑路的想法</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
@@ -5393,12 +5549,12 @@
   color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">我是自离的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">我<span class="GramE">是自离的</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">后来听同事说</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">连续三个月不发工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">连续三个月<span class="GramE">不</span>发工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">所有员工一起把他告到了劳动局</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F"><o:p></o:p></span></p>
@@ -5412,7 +5568,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:82">
+ <tr style="mso-yfti-irow:83">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5431,10 +5587,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州圣晖信息技术有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州圣晖信息技术</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -5459,7 +5618,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:83">
+ <tr style="mso-yfti-irow:84">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5529,7 +5688,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:84">
+ <tr style="mso-yfti-irow:85">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5560,10 +5719,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">陈军臣<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">陈军臣</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5598,7 +5760,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:85">
+ <tr style="mso-yfti-irow:86">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5656,7 +5818,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:86">
+ <tr style="mso-yfti-irow:87">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5678,7 +5840,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州科瑞思拓<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州科<span class="GramE">瑞思拓</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -5701,9 +5863,9 @@
   color:#24292F">估计没找到合适的人，又苦口婆心的说啊</span><span lang="EN-US" style="font-family:
   &quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">什么兼职也行，让我估一下多少钱，看人家挺诚心的，我就估了一下，跟他说了之后，以后就再不劝我了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">什么兼职也行，<span class="GramE">让我估一下</span>多少钱，看人家<span class="GramE">挺</span>诚心的，我就估了一下，跟他说了之后，以后就再不劝我了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">估计被吓着了还是怎么着，其实一项目我才说了一万五而已，人事前后态度反差之大，很是不解。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">估计被吓着了还是怎么着，其实<span class="GramE">一</span>项目我才说了一万五而已，人事前后态度反差之大，很是不解。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -5714,7 +5876,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:87">
+ <tr style="mso-yfti-irow:88">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5750,7 +5912,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这个是绝对的坑爹公司，拖发工资不说，还不发工资，各种劳动局高啊</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这个是<span class="GramE">绝对的坑爹公司</span>，拖发工资不说，还<span class="GramE">不</span>发工资，各种劳动局高啊</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">也不行</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -5769,7 +5931,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:88">
+ <tr style="mso-yfti-irow:89">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5791,7 +5953,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州图智意软件科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州<span class="GramE">图智意软件</span>科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -5805,14 +5967,14 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这个公司在郑州九博和智联上可能会搜到，当初没投他们公司简历，自己查到的就给我打电话让来面试，面试说最近有个活比较急，着急招人来写，当时找了好久都没找到工作，就答应了，刚来的时候还挺好的，后来人多了，活也不好做，估计感觉养不起了，就开始拖工资，本来是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">15</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">这个公司在<span class="GramE">郑州九博和</span>智联上可能会搜到，当初没投他们公司简历，自己查到的就给我打电话让来面试，面试说最近有个<span class="GramE">活比较</span>急，着急招人来写，当时找了好久都没找到工作，就答应了，刚来的时候还挺好的，后来人多了，活也不好做，估计感觉养不起了，就开始拖工资，本来是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">15</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">号发，有的时候拖个</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">3,4</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">天也没啥，后来越来越久，直接拖了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">2</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">个月，有个人就受不了问，然后老板每次都说过几天就发，员工们都没心情写代码了，想着不发工资就不写，老板就怒了，说谁不干活就</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">**</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">个月，有个人就受不了问，然后老板每次都说过几天就发，员工们都没心情写代码了，想着<span class="GramE">不</span>发工资就不写，老板就怒了，说谁不干活就</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">**</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">，有人不服，吵了一架就走了，然而还是没法工资，老板还会在公司群里装</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">*</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
@@ -5828,7 +5990,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:89">
+ <tr style="mso-yfti-irow:90">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -5847,17 +6009,23 @@
   <p align="center" style="margin:0cm;text-align:center;mso-pagination:none;
   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
-  mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-size:10.5pt;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span class="GramE"><span style="font-size:10.5pt;mso-ascii-font-family:宋体;mso-ascii-theme-font:minor-fareast;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  宋体;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南润升信息技术</span></span><span style="font-size:10.5pt;
   mso-ascii-font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
   宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:宋体;mso-hansi-theme-font:
-  minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南润升信息技术有限公司、<span lang="EN-US"><o:p></o:p></span></span></p>
+  minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">有限公司、<span lang="EN-US"><o:p></o:p></span></span></p>
   <p align="center" style="margin:0cm;text-align:center;mso-pagination:none;
   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
-  mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-size:10.5pt;
+  mso-element-top:.05pt;mso-height-rule:exactly"><span class="GramE"><span style="font-size:10.5pt;mso-ascii-font-family:宋体;mso-ascii-theme-font:minor-fareast;
+  mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+  宋体;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南润合信息技术</span></span><span style="font-size:10.5pt;
   mso-ascii-font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-font-family:
   宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:宋体;mso-hansi-theme-font:
-  minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南润合信息技术有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   <p align="center" style="margin:0cm;text-align:center;mso-pagination:none;
   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
@@ -5916,7 +6084,7 @@
   color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">具体天眼查搜河南润升信息技术有限公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">---</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">具体<span class="GramE">天眼查搜河南润升信息技术</span>有限公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">---</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">很多执行单</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F"><br>
@@ -5929,66 +6097,7 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">年到至今仍未还</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">现在听说你去面试让你把工资当做技术股之类的</span><span lang="EN-US" style="font-family:
-  &quot;Segoe UI&quot;,sans-serif;color:#24292F">.<o:p></o:p></span></p>
-  </td>
-  <td width="208" style="width:155.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
-  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style="mso-yfti-irow:90">
-  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
-  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
-  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
-  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">90<o:p></o:p></span></p>
-  </td>
-  <td width="246" style="width:184.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
-  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
-  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州双杰科技股份有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
-  </td>
-  <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"></td>
-  <td width="416" style="width:11.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
-  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
-  宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">老板自以为看了一点技术书，就觉得自己很懂了，实际就是傻逼一个，各种无脑需求，还让改</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">Android</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">源码，傻逼一个。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
-  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">技术部管事的也是个傻逼，就会</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">.net,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">还装的自己什么都会，更傻逼，整天啥事不干，就会瞎</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">bb</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">。面试就问问能不能连服务器的数据库，真是傻逼。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">这家公司很小，管理很混乱，想要去的同志们考虑好</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">现在听说你去面试让你把工资<span class="GramE">当做</span>技术股之类的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">.<o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6009,7 +6118,7 @@
   mso-height-rule:exactly"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
   font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
   minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">91<o:p></o:p></span></p>
+  color:#24292F">90<o:p></o:p></span></p>
   </td>
   <td width="246" style="width:184.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6018,10 +6127,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南嘉想派<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州双</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">杰科技股份有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -6035,11 +6147,19 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">在职时技术总监疯狂压工期、开发周期两个月的项目压到一个月并且要上线、没有任何解决办法、最后加班了两个月期间熬了一夜通宵、最严重的一周不超过</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">24</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">老板自以为看了一点技术书，就觉得自己很懂了，实际<span class="GramE">就是傻逼一个</span>，各种无脑需求，还让改</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F">Android</span><span style="font-family:
+  宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">源码，<span class="GramE">傻逼一个</span>。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">技术部管事的也是个傻逼，就会</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">.net,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">小时睡眠时间、身体熬不住遂辞职。中间因为项目量确实无法压缩到一个月的工期上线、技术总监并没有给任何解决方案、任职期间感觉被职场</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">PUA</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">还装的自己什么都会，更傻逼，整天啥事不干，就会瞎</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">bb</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">、一度对自己的职业技能不自信、认为是自己不行拖延了项目进度等等、以上陈述是我离职之后的感受、遇坑的人员记得避坑</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">。面试就问问能不能连服务器的数据库，真是傻逼。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">这家公司很小，管理很混乱，想要去的同志们考虑好</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6060,6 +6180,61 @@
   mso-height-rule:exactly"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
   font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
   minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">91<o:p></o:p></span></p>
+  </td>
+  <td width="246" style="width:184.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南嘉想派</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
+  </td>
+  <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"></td>
+  <td width="416" style="width:11.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
+  宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">在职时技术总监疯狂压工期、开发周期两个月的项目压到一个月并且要上线、没有任何解决办法、最后加班了两个月期间熬了一夜通宵、最严重的一周不超过</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">24</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">小时睡眠时间、身体熬不住遂辞职。中间因为项目量确实无法压缩到一个月的工期上线、技术总监并没有给任何解决方案、任职期间感觉<span class="GramE">被职场</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F">PUA</span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">、一度对自己的职业技能不自信、认为是自己不行拖延了项目进度等等、以上陈述是我离职之后的感受、<span class="GramE">遇坑的</span>人员<span class="GramE">记得避坑</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  </td>
+  <td width="208" style="width:155.9pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
+  mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
+  column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:93">
+  <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
+  mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+  paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
+  mso-height-rule:exactly"><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">92<o:p></o:p></span></p>
   </td>
   <td width="246" style="width:184.3pt;border-top:none;border-left:none;
@@ -6069,10 +6244,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州海合科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">郑州海</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">合科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -6105,7 +6283,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:93">
+ <tr style="mso-yfti-irow:94">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6152,14 +6330,14 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">说是什么分公司，其实啥也不是。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">有项目就招人，没项目就裁人。公司没有行政，没有任何福利待遇。每天无偿加班，甚至到十二点，周末说是双休基本上很少双休过。办公地点极其小，还是租甲方的一间小屋子，这么抠的公司见过么？这也算是上海的一个分公司？？？说是什么分公司老板，其实就是一个沙雕无脑自大的傻逼男，叫蒋东卿。由于公司租的小房间太小，坐不下人，就让我们回家办公，每天基本上</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">24</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">有项目就招人，没项目就裁人。公司没有行政，没有任何福利待遇。每天无偿加班，甚至到十二点，周末说是双休基本上很少双休过。办公地点极其小，还是租甲方的一间小屋子，这么抠的公司见过么？这也算是上海的一个分公司？？？说是什么分公司老板，其实就是一个沙雕无脑自大的<span class="GramE">傻逼男</span>，叫蒋东卿。由于公司租的小房间太小，坐<span class="GramE">不</span>下人，就让我们回家办公，每天基本上</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">24</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">小时待命，每天不分时间点，随时给你发微信，不秒回就打电话轰炸，甲方不看项目，他也不测试项目，甲方只要提出哪天看项目，他就测到后半夜，半夜给你打电话。每天发日报，不能直接发钉钉里，要先把日报发群里，对着你的每条日报，逐字逐句的验证，验证通过才可以发往钉钉。每天随时随地，他都可能给你发微信，打电话，就跟他不让别人有个人生活，他也没有个人生活一样。经常把你干的活说的很简单，就说不就啥啥啥么，基本上每一天都恶心你，每天都让你弄的很糟心，你有啥好心情，都得被他弄的很糟。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  color:#24292F">小时待命，每天不分时间点，随时给你发微信，<span class="GramE">不秒回</span>就打电话轰炸，甲方不看项目，他也不测试项目，甲方只要提出哪天看项目，他就测到后半夜，半夜给你打电话。每天发日报，不能直接发钉钉里，要先把<span class="GramE">日报发群里</span>，对着你的每条日报，逐字逐句的验证，验证通过才可以发往钉钉。每天随时随地，他都可能给你发微信，打电话，就跟他不让别人有个人生活，他也没有个人生活一样。经常把你干的活说的很简单，就说不就啥啥啥么，基本上每一天都恶心你，每天都让你弄的很糟心，你有啥好心情，都得被他弄的很糟。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">每个节日公司没有任何礼品，公司</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">不会有任何小聚，因为公司连群都没有。而且发工资没有工资条的，请假一天比正常工作日扣的钱都多的，只要你问他任何工作之外，福利待遇薪资相关的事，立马给你脸色看，给你阴阳怪气的。工作中就跟不信任你一样，你干的活每天必须经过给他验证成功，才可以发日报。就一男人中的极品，咋配结婚了，怕是小时候有童年阴影么</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">?</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">不会有任何小聚，因为公司连群都没有。而且发工资没有工资条的，请假一天比正常工作日扣的钱都多的，只要你问他任何工作之外，福利待遇薪资相关的事，立马给你脸色看，给你阴阳怪气的。工作中就跟不信任你一样，你干的活每天必须经过给他验证成功，才可以发日报。就<span class="GramE">一</span>男人中的极品，<span class="GramE">咋配结婚</span>了，怕是小时候有童年阴影么</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">?</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">婚姻不幸福，对员工撒气么？但是人家对上海那边的人，跟他爹一样好</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
@@ -6175,7 +6353,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:94">
+ <tr style="mso-yfti-irow:95">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6197,7 +6375,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑煤数耘<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑煤数<span class="GramE">耘</span><span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -6211,14 +6389,14 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">招聘的时候对外说是郑煤机的，说和郑煤机集团一样走国企待遇，现在是赶项目加班，实际上根本不是，干了一段时间才签署合同，写的不定时工作制，每天</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">7</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">招聘的时候对外说是郑煤机的，说和郑煤机集团一样走国企待遇，现在是<span class="GramE">赶项目</span>加班，实际上根本不是，干了一段时间才签署合同，写的不定时工作制，每天</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">7</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">点</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">40</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">上班，上到下午</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">17</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">点半，当初说忙完就是双休和国企待遇一致走节假日正常，实际上根本不是，固定单休，节假日缩水，清明</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  color:#24292F">点半，当初说忙完就是双休和国企待遇一致走节假日正常，实际上根本不是，<span class="GramE">固定单</span>休，节假日缩水，清明</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">天休</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">2</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -6236,7 +6414,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:95">
+ <tr style="mso-yfti-irow:96">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6288,7 +6466,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:96">
+ <tr style="mso-yfti-irow:97">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6338,7 +6516,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:97">
+ <tr style="mso-yfti-irow:98">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6381,7 +6559,7 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">管饭是从</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">2.7</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">里面扣的，工资要压俩月，说是上市也是挂牌，多多留意，工资发的还不稳定，建议这个坑一定要避，主管没权利一切都是硬件那个人说了算，跟老板有关系</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">里面扣的，工资要压俩月，说是上市也是挂牌，多多留意，工资发的还不稳定，建议这个<span class="GramE">坑一定</span>要避，主管没权利一切都是硬件那个人说了算，跟老板有关系</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6392,7 +6570,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:98">
+ <tr style="mso-yfti-irow:99">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6414,7 +6592,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">郑州仙女酱信息技术有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">郑州仙女<span class="GramE">酱</span>信息技术有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -6461,12 +6639,12 @@
   color:#24292F">玩呢</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">说好的到时候结工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">说好的到时候<span class="GramE">结工资</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">我工作交接了完就走了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">结果到时间不发工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">结果到时间<span class="GramE">不</span>发工资</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">老板刚开始各种拖</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -6476,7 +6654,7 @@
   color:#24292F">至于吗</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">?</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">后来干脆不接电话</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">后来干脆<span class="GramE">不</span>接电话</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">人给你拉黑</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F"><o:p></o:p></span></p>
@@ -6508,7 +6686,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:99">
+ <tr style="mso-yfti-irow:100">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6544,7 +6722,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">去了公司叫犇犇科技，问是双休，去了说是单双休，</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">去了公司叫<span class="GramE">犇犇</span>科技，问是双休，去了说是单双休，</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">面试还说公司都是北上广的人，</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:
@@ -6563,7 +6741,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:100">
+ <tr style="mso-yfti-irow:101">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6610,7 +6788,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:101">
+ <tr style="mso-yfti-irow:102">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6663,7 +6841,8 @@
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">行代码纠正地图定位问题给了他</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">30</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">万，还说自己姥爷是什么林氏重工的董事长等等（吹的牛逼太多太多太多了，有点总结不完）。辞退别人不给人工资发全，你去讨薪他就报警说你窃取公司资料。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">万，还说自己姥爷是什么林氏重工的董事长等等（吹的牛逼<span class="GramE">太</span>多太多太多了，有点总结不完）。辞退别人不给人工资发全，你去<span class="GramE">讨薪他</span>就报警说你窃取公司资料。</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6674,7 +6853,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:102">
+ <tr style="mso-yfti-irow:103">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6716,9 +6895,9 @@
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">外包没福利。没有公积金，试用期不缴纳公积金社保。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">试用期离职需要提前两周提申请，违反劳动法。离职申请拖着不办，请假不批，拖着等你自离，自离不给工资。本人工作半个月，公司就这样搞，公司不给签劳动合同，劳动仲裁要跑到西安都很麻烦。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
-  hr</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
-  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">试用期离职需要提前两周提申请，违反劳动法。离职申请拖着不办，请假不批，拖着等你自离，<span class="GramE">自离不给</span>工资。本人工作半个月，公司就这样搞，公司不给签劳动合同，劳动仲裁要跑到西安都很麻烦。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  <span class="SpellE">hr</span></span><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">是</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">sb</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
   color:#24292F">，沟通能力极差，办事能力极差。</span><span lang="EN-US" style="font-family:
@@ -6736,7 +6915,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:103">
+ <tr style="mso-yfti-irow:104">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6773,12 +6952,12 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">黑心</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">!!!!<br>
-  </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
-  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  </span><span class="GramE"><span style="font-family:宋体;mso-ascii-font-family:
+  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">跟河南没问题是一个老板</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;,</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">用他所谓的股权分裂制骗人</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F"><br>
+  color:#24292F">用他所谓的股权分裂制骗人</span></span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">骗人的进去让你签一个</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">20</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
@@ -6812,7 +6991,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:104">
+ <tr style="mso-yfti-irow:105">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6850,8 +7029,7 @@
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">上班一年</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">半年不发工资了解一下</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">半年<span class="GramE">不</span>发工资了解一下</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6862,7 +7040,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:105">
+ <tr style="mso-yfti-irow:106">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6901,7 +7079,7 @@
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">招聘是白嫖，让你做东西，做完赶人。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">做完了说考核没过。问人事考核了什么，为什么没过，人事说她不知道，推给技术领导，我去问技术领导，他又说是老板，我他妈今天一天都没见过老板</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">做完了<span class="GramE">说考核</span>没过。问人事考核了什么，为什么没过，人事说她不知道，推给技术领导，我去问技术领导，他又说是老板，我他妈今天一天都没见过老板</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6912,7 +7090,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:106">
+ <tr style="mso-yfti-irow:107">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6934,7 +7112,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南云企汇网络科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南<span class="GramE">云企汇网络</span>科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -6959,7 +7137,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:107">
+ <tr style="mso-yfti-irow:108">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -6995,7 +7173,8 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">北京奥泰视景，北京奥泰视景，公司坐标，长椿路梧桐街地铁站（西科技园）附近，</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">北京奥泰视景，北京奥泰视景，公司坐标，长<span class="GramE">椿路梧桐</span>街地铁站（西科技园）附近，</span><span lang="EN-US" style="font-family:
+  &quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">公司总是招一批人，试用期转正后，拖着不签合同，待发正式工资前，要求新人降薪</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">60%</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
@@ -7003,7 +7182,8 @@
   color:#24292F">，同意就按照</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">40%</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">工资上班，不同意要求自离，孕妇也是，这样搞的；已经换了好几波开发者；项目忙时招人，事后降薪搞人走；来着请注意。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">工资上班，不同意要求自离，孕妇也是，这样搞的；已经换了好几<span class="GramE">波开发</span>者；项目忙时招人，事后<span class="GramE">降薪搞</span>人走；<span class="GramE">来着请</span>注意。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -7014,7 +7194,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:108">
+ <tr style="mso-yfti-irow:109">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -7067,7 +7247,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:109">
+ <tr style="mso-yfti-irow:110">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -7114,7 +7294,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:110">
+ <tr style="mso-yfti-irow:111">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -7157,10 +7337,9 @@
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">年，二月份在家远程办公，按时正常打卡，谁知道他们发工资居然是郑州最低标准</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">1900</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">，还有三月份工资也是给降低</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F">20%</span><span style="font-family:宋体;mso-ascii-font-family:
-  &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">。。于是本人就辞职了，贼不靠谱的一个地方，，还是单休，基本上没啥福利吧。社保居然还是交的大连，不是郑州。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  color:#24292F">，还有三月份工资也是<span class="GramE">给降低</span></span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">20%</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">。。于是本人就辞职了，贼不靠谱的一个地方，，还是单休，基本上没啥福利吧。社保居然还是交的大连，不是郑州。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -7171,7 +7350,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:111">
+ <tr style="mso-yfti-irow:112">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -7193,7 +7372,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南鼎汉软件科技，坐标东区<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南鼎<span class="GramE">汉软件</span>科技，坐标东区<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -7207,7 +7386,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">很多新人入职呆不久，趁着疫情故意降薪，新招的人员，也等转正时故意提降薪，压低工资，其他还有坑，注意了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">很多新人<span class="GramE">入职呆不久</span>，趁着疫情故意降薪，新招的人员，也等转正时故意提降薪，压低工资，其他还有坑，注意了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -7218,7 +7397,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:112">
+ <tr style="mso-yfti-irow:113">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -7240,7 +7419,7 @@
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
   mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南乐之富信息技术，徳一子公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">河南乐之富信息技术，<span class="GramE">徳一</span>子公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -7254,7 +7433,7 @@
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南乐之富信息技术，是臭名昭著的徳一集团的子公司，公司牌子挂的就是徳一集团。切勿浪费时间</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">河南乐之富信息技术，是臭名昭著的<span class="GramE">徳一</span>集团的子公司，公司牌子挂的就是<span class="GramE">徳一</span>集团。切勿浪费时间</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="208" style="width:155.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -7265,7 +7444,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:113">
+ <tr style="mso-yfti-irow:114">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -7284,10 +7463,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">河南乾唐互联网科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">河南乾唐互联网</span></span><span style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -7296,10 +7478,13 @@
   <p class="MsoNormal" align="center" style="text-align:center;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
-  mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
-  宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">谷千亮<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F">谷千亮</span></span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -7312,9 +7497,11 @@
   color:#24292F">年</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F">3</span><span style="font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">月份重组的公司，就几个人，老员工的工资已经拖欠了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">N</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">月份重组的公司，就几个人，老员工的工资已经拖欠了</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">N</span><span class="GramE"><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">个</span></span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">个月，新员工的工资就发了一个月，从</span><span lang="EN-US" style="font-family:
+  color:#24292F">月，新员工的工资就发了一个月，从</span><span lang="EN-US" style="font-family:
   &quot;Segoe UI&quot;,sans-serif;color:#24292F">11</span><span style="font-family:宋体;
   mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">月的开始，一直拖到现在，老板谷千亮。</span></p>
@@ -7328,7 +7515,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F">&nbsp;</span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:114">
+ <tr style="mso-yfti-irow:115">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -7347,10 +7534,11 @@
   <p class="MsoNormal" align="center" style="text-align:center;background:white;
   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
-  mso-element-top:.05pt;mso-height-rule:exactly"><span style="mso-bidi-font-size:
-  10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">群鸿网络技术有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  mso-element-top:.05pt;mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">群鸿网络技术</span></span><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F">有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   <p class="MsoNormal" align="center" style="text-align:center;background:white;
   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
@@ -7384,23 +7572,28 @@
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
   <p class="MsoNormal" style="mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:
-  column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="font-family:
+  column;mso-element-top:.05pt;mso-height-rule:exactly"><span class="GramE"><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F;background:white">群鸿是</span></span><span style="font-family:
   宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;
-  background:white">群鸿是一个</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  background:white">一个</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:white">&nbsp;</span><span style="font-family:宋体;
   mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;
-  background:white">空壳公司，法人是刘珂，实际掌控人是郭恒</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:white">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F;background:white">（老流氓一个）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:white"><br>
+  background:white">空壳公司，法人是刘珂，<span class="GramE">实际掌控人</span>是郭恒</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:
+  white">&nbsp;</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">（老流氓一个）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:
+  white"><br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">无为文化有自己的公司但是同时也在为群鸿招人做一个叫</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:
-  white">du22</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
-  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:
-  white">app<br>
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">无为文化有自己的公司但是同时也在<span class="GramE">为群鸿招人</span>做一个叫</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F;background:white">du22</span><span style="font-family:宋体;
+  mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
+  mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;
+  background:white">的</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
+  color:#24292F;background:white">app<br>
   </span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">各位小心</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p></o:p></span></p>
@@ -7414,7 +7607,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:115">
+ <tr style="mso-yfti-irow:116">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -7443,7 +7636,7 @@
   mso-element-top:.05pt;mso-height-rule:exactly"><span style="mso-bidi-font-size:
   10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
   minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F">杭州创联集采数字科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
+  color:#24292F">杭州创<span class="GramE">联集采数字</span>科技有限公司<span lang="EN-US"><o:p></o:p></span></span></p>
   <p class="MsoNormal" align="center" style="text-align:center;background:white;
   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
@@ -7502,7 +7695,7 @@
   color:#24292F;background:white">10-12</span><span style="font-family:宋体;
   mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;
   mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;
-  background:white">月份工资，目前在强制执行阶段，实际控制人汪洁，是个老赖，他弟弟汪申是这家公司的总经理（代持），母公司杭州创联集采数字科技有限公司（皮包公司），实际都是一批人在运营的（汪洁、汪申、汪玥、王芃树），目前康达这家公司已经列入异常经营名录，并且有</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:
+  background:white">月份工资，目前在强制执行阶段，实际控制人汪洁，是个老赖，他弟弟汪申是这家公司的总经理（代持），母公司杭州创<span class="GramE">联集采数字</span>科技有限公司（皮包公司），实际都是一批人在运营的（汪洁、汪申、汪玥、王芃树），目前康达这家公司已经列入异常经营名录，并且有</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:
   white">3</span><span style="font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;
   mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">个执行案件，老板们换了个公司继续经营，新公司名称：河南云健科技有限公司，如果有在坑里的请紧急避坑，多谢。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F;background:
@@ -7517,7 +7710,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:116">
+ <tr style="mso-yfti-irow:117">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -7539,8 +7732,8 @@
   mso-element-top:.05pt;mso-height-rule:exactly"><span style="mso-bidi-font-size:
   10.5pt;font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F;background:white">郑州威科姆股份有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-theme-font:minor-fareast;
-  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
+  color:#24292F;background:white">郑州威科<span class="GramE">姆</span>股份有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-theme-font:
+  minor-fareast;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
   mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
@@ -7564,11 +7757,11 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span style="mso-bidi-font-size:
   10.5pt;font-family:宋体;mso-ascii-font-family:&quot;Segoe UI&quot;;mso-fareast-theme-font:
   minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;mso-bidi-font-family:&quot;Segoe UI&quot;;
-  color:#24292F;background:white">威科姆最唬人的就是他的办公场地，大家千万不要被它的外观规模所欺骗！整个园区能出租的全租出去了，就靠收租活着呢，所以老板和中层也肆无忌惮，因为压根不靠技术挣钱！整个领导层都烂到家了，特别是一个陈姓中层，那可是干啥啥不行，跪舔老板第一名！</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-  color:#24292F"><br>
+  color:#24292F;background:white">威科<span class="GramE">姆</span>最唬人的就是他的办公场地，大家千万不要被它的外观规模所欺骗！整个园区能出租的全租出去了，就靠收租活着呢，所以老板和<span class="GramE">中层也</span>肆无忌惮，因为压根不靠技术挣钱！整个领导层都烂到家了，特别是一个陈姓中层，那可是干啥啥不行，<span class="GramE">跪舔老板</span>第一名！</span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><br>
   </span><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">一个啥都不懂的人，能从产品，设计到开发指导一遍！而且还得听他的，稍微和他顶撞，就等着穿小鞋，被逼辞职吧！</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
+  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F;background:white">一个啥都不懂的人，能从产品，设计到开发指导一遍！而且还得听他的，<span class="GramE">稍微和</span>他顶撞，就等着穿小鞋，被逼辞职吧！</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F"><br>
   </span><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
   &quot;Segoe UI&quot;;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;Segoe UI&quot;;
@@ -7592,7 +7785,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:117;height:33.7pt">
+ <tr style="mso-yfti-irow:118;height:33.7pt">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:33.7pt">
@@ -7611,9 +7804,11 @@
   <p class="MsoNormal" align="center" style="text-align:center;background:white;
   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
-  mso-element-top:.05pt;mso-height-rule:exactly"><span style="mso-bidi-font-size:
+  mso-element-top:.05pt;mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Verdana;
+  color:black;background:white">河南爱尚分</span></span><span style="mso-bidi-font-size:
   10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">河南爱尚分信息技术有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
+  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">信息技术有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;
   color:#24292F;background:white"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
@@ -7646,7 +7841,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:118;height:42.25pt">
+ <tr style="mso-yfti-irow:119;height:42.25pt">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:42.25pt">
@@ -7667,8 +7862,8 @@
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
   mso-element-top:.05pt;mso-height-rule:exactly"><span style="mso-bidi-font-size:
   10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">郑州创意加缘信息技术股份有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Verdana&quot;,sans-serif;
-  color:black;background:white"><o:p></o:p></span></p>
+  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">郑州<span class="GramE">创意加缘信息技术</span>股份有限公司</span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:&quot;Verdana&quot;,sans-serif;color:black;background:white"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -7700,7 +7895,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:119;height:41.85pt">
+ <tr style="mso-yfti-irow:120;height:41.85pt">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:41.85pt">
@@ -7721,8 +7916,8 @@
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
   mso-element-top:.05pt;mso-height-rule:exactly"><span style="mso-bidi-font-size:
   10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">郑州莜莜果网络科技有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Verdana&quot;,sans-serif;
-  color:black;background:white"><o:p></o:p></span></p>
+  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">郑州<span class="GramE">莜莜果网络</span>科技有限公司</span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:&quot;Verdana&quot;,sans-serif;color:black;background:white"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -7754,7 +7949,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:120;height:35.4pt">
+ <tr style="mso-yfti-irow:121;height:35.4pt">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:35.4pt">
@@ -7808,7 +8003,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:121;height:35.4pt">
+ <tr style="mso-yfti-irow:122;height:35.4pt">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:35.4pt">
@@ -7862,7 +8057,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:122;height:35.4pt">
+ <tr style="mso-yfti-irow:123;height:35.4pt">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:35.4pt">
@@ -7881,9 +8076,11 @@
   <p class="MsoNormal" align="center" style="text-align:center;background:white;
   mso-element:frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
-  mso-element-top:.05pt;mso-height-rule:exactly"><span style="mso-bidi-font-size:
+  mso-element-top:.05pt;mso-height-rule:exactly"><span class="GramE"><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Verdana;
+  color:black;background:white">郑州建鲤</span></span><span style="mso-bidi-font-size:
   10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">郑州建鲤信息技术有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Verdana&quot;,sans-serif;
+  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">信息技术有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Verdana&quot;,sans-serif;
   color:black;background:white"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
@@ -7916,7 +8113,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:123;height:35.4pt">
+ <tr style="mso-yfti-irow:124;height:35.4pt">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:35.4pt">
@@ -7986,7 +8183,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:124;height:35.4pt">
+ <tr style="mso-yfti-irow:125;height:35.4pt">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:35.4pt">
@@ -8007,14 +8204,14 @@
   mso-element-anchor-vertical:paragraph;mso-element-anchor-horizontal:column;
   mso-element-top:.05pt;mso-height-rule:exactly"><span style="mso-bidi-font-size:
   10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;mso-fareast-theme-font:
-  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">中游晟能</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Verdana&quot;,sans-serif;
-  color:black;background:white">(</span><span style="mso-bidi-font-size:10.5pt;
-  font-family:宋体;mso-ascii-font-family:Verdana;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Verdana;color:black;background:white">河南</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Verdana&quot;,sans-serif;
-  color:black;background:white">)</span><span style="mso-bidi-font-size:10.5pt;
-  font-family:宋体;mso-ascii-font-family:Verdana;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Verdana;color:black;background:white">科技有限公司</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Verdana&quot;,sans-serif;
-  color:black;background:white"><o:p></o:p></span></p>
+  minor-fareast;mso-hansi-font-family:Verdana;color:black;background:white">中游<span class="GramE">晟</span>能</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
+  font-family:&quot;Verdana&quot;,sans-serif;color:black;background:white">(</span><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Verdana;
+  color:black;background:white">河南</span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:&quot;Verdana&quot;,sans-serif;color:black;background:white">)</span><span style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Verdana;
+  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Verdana;
+  color:black;background:white">科技有限公司</span><span lang="EN-US" style="mso-bidi-font-size:
+  10.5pt;font-family:&quot;Verdana&quot;,sans-serif;color:black;background:white"><o:p></o:p></span></p>
   </td>
   <td width="113" style="width:3.0cm;border-top:none;border-left:none;border-bottom:
   solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
@@ -8025,9 +8222,10 @@
   paragraph;mso-element-anchor-horizontal:column;mso-element-top:.05pt;
   mso-height-rule:exactly"><span style="mso-bidi-font-size:10.5pt;font-family:
   宋体;mso-ascii-font-family:Verdana;mso-fareast-theme-font:minor-fareast;
-  mso-hansi-font-family:Verdana;color:black;background:white">徐世龙</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-theme-font:
-  minor-fareast;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-fareast;
-  mso-bidi-font-family:&quot;Segoe UI&quot;;color:#24292F"><o:p></o:p></span></p>
+  mso-hansi-font-family:Verdana;color:black;background:white">徐<span class="GramE">世</span>龙</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;
+  font-family:宋体;mso-ascii-theme-font:minor-fareast;mso-fareast-theme-font:
+  minor-fareast;mso-hansi-theme-font:minor-fareast;mso-bidi-font-family:&quot;Segoe UI&quot;;
+  color:#24292F"><o:p></o:p></span></p>
   </td>
   <td width="416" style="width:11.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -8047,7 +8245,7 @@
   column;mso-element-top:.05pt;mso-height-rule:exactly"><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:#24292F"><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:125;mso-yfti-lastrow:yes;height:35.4pt">
+ <tr style="mso-yfti-irow:126;mso-yfti-lastrow:yes;height:35.4pt">
   <td width="54" style="width:40.85pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:35.4pt">
@@ -8106,3 +8304,12 @@
   </td>
  </tr>
 </tbody></table>
+
+<p class="MsoNormal" style="tab-stops:48.6pt"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+
+
+
+</body>
